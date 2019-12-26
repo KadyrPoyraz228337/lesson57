@@ -1,0 +1,27 @@
+.item {
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+.priceBlock {
+    display: flex;
+    align-items: center;
+    margin: 0 0 0 auto;
+}
+.color {
+    width: 15px;
+    height: 15px;
+    margin: 10px;
+    border: 1px solid #000;
+}
+.removeBtn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 20px;
+    height: 20px;
+    margin: 0 5px;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+}

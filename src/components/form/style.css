@@ -1,0 +1,21 @@
+input {
+    padding: 0 0 0 5px;
+    border: 1px solid #000;
+}
+.formBlock {
+    display: flex;
+    margin: 15px 0;
+}
+.textInput {
+    width: 35%;
+    margin: 0 10px;
+}
+.costInput {
+    width: 10%;
+}
+.inputSelect {
+    margin: 0 10px;
+}
+.formBtn {
+    margin: 0 10px 0 auto;
+}
